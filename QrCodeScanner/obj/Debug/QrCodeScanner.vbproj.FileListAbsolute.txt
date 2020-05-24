@@ -1,0 +1,13 @@
+E:\Visual Basic2015.Net Program\QrCodeScanner\QrCodeScanner\bin\Debug\QrCodeScanner.exe.config
+E:\Visual Basic2015.Net Program\QrCodeScanner\QrCodeScanner\bin\Debug\QrCodeScanner.exe
+E:\Visual Basic2015.Net Program\QrCodeScanner\QrCodeScanner\bin\Debug\QrCodeScanner.pdb
+E:\Visual Basic2015.Net Program\QrCodeScanner\QrCodeScanner\bin\Debug\QrCodeScanner.xml
+E:\Visual Basic2015.Net Program\QrCodeScanner\QrCodeScanner\bin\Debug\MessagingToolkit.QRCode.dll
+E:\Visual Basic2015.Net Program\QrCodeScanner\QrCodeScanner\bin\Debug\WebCam_Capture.dll
+E:\Visual Basic2015.Net Program\QrCodeScanner\QrCodeScanner\obj\Debug\QrCodeScanner.vbprojResolveAssemblyReference.cache
+E:\Visual Basic2015.Net Program\QrCodeScanner\QrCodeScanner\obj\Debug\QrCodeScanner.QrCodeScanner.resources
+E:\Visual Basic2015.Net Program\QrCodeScanner\QrCodeScanner\obj\Debug\QrCodeScanner.Resources.resources
+E:\Visual Basic2015.Net Program\QrCodeScanner\QrCodeScanner\obj\Debug\QrCodeScanner.vbproj.GenerateResource.Cache
+E:\Visual Basic2015.Net Program\QrCodeScanner\QrCodeScanner\obj\Debug\QrCodeScanner.exe
+E:\Visual Basic2015.Net Program\QrCodeScanner\QrCodeScanner\obj\Debug\QrCodeScanner.xml
+E:\Visual Basic2015.Net Program\QrCodeScanner\QrCodeScanner\obj\Debug\QrCodeScanner.pdb
